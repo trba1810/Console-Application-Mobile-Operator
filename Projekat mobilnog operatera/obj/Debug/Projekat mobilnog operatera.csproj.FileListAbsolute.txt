@@ -1,0 +1,7 @@
+C:\Users\TRBA8\OneDrive\Documents\Visual Studio 2017\Projekat mobilnog operatera\Projekat mobilnog operatera\bin\Debug\Projekat mobilnog operatera.exe.config
+C:\Users\TRBA8\OneDrive\Documents\Visual Studio 2017\Projekat mobilnog operatera\Projekat mobilnog operatera\bin\Debug\Projekat mobilnog operatera.exe
+C:\Users\TRBA8\OneDrive\Documents\Visual Studio 2017\Projekat mobilnog operatera\Projekat mobilnog operatera\bin\Debug\Projekat mobilnog operatera.pdb
+C:\Users\TRBA8\OneDrive\Documents\Visual Studio 2017\Projekat mobilnog operatera\Projekat mobilnog operatera\obj\Debug\Projekat mobilnog operatera.csprojResolveAssemblyReference.cache
+C:\Users\TRBA8\OneDrive\Documents\Visual Studio 2017\Projekat mobilnog operatera\Projekat mobilnog operatera\obj\Debug\Projekat mobilnog operatera.csproj.CoreCompileInputs.cache
+C:\Users\TRBA8\OneDrive\Documents\Visual Studio 2017\Projekat mobilnog operatera\Projekat mobilnog operatera\obj\Debug\Projekat mobilnog operatera.exe
+C:\Users\TRBA8\OneDrive\Documents\Visual Studio 2017\Projekat mobilnog operatera\Projekat mobilnog operatera\obj\Debug\Projekat mobilnog operatera.pdb
